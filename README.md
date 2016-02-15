@@ -3,5 +3,5 @@
 ### Get library
 
     git clone https://github.com/anttiraisala/clocking-tests.git
-    cd simple_vector_math
+    cd clocking-tests
     mvn clean install
