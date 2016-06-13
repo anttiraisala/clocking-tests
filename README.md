@@ -1,4 +1,5 @@
 # clocking-tests
+Tests stopwatch by clocking several projects.
 
 ## Get clocking tests
 
